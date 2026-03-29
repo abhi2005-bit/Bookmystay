@@ -32,7 +32,7 @@ public class UC2 {
     }
 
 
-        public static void main(String[] args) {
+    public static void main(String[] args) {
 
             System.out.println("===== Book My Stay App v2.0 =====");
 
@@ -57,6 +57,6 @@ public class UC2 {
 
             r3.displayRoom();
             System.out.println("Available: " + suiteAvailable);
-        }
     }
+
 }
